@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**sainiadityadev/sainiadityadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aditya Saini**, a Software Engineer who enjoys building backend services, solving practical problems, and learning how systems work behind the scenes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+Technologies and tools I work with:
+
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,react,java,spring,maven,flutter,nodejs,hibernate,git,github,linux,ubuntu,idea,vscode,postman,nginx,postgres,mongodb,mysql,redis,docker,kafka&perline=9)](https://skillicons.dev)
+
+</div>
+
+---
